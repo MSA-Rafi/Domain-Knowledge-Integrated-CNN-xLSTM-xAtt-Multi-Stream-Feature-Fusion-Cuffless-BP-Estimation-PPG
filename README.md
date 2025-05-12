@@ -29,11 +29,11 @@ The codes of the work as organized as follows:
 
 If you find this work helpful, please cite using:
 
-``@article{shoaib2025domain,
+```@article{shoaib2025domain,
   title={Domain Knowledge Integrated CNN-xLSTM-xAtt Network with Multi Stream Feature Fusion for Cuffless Blood Pressure Estimation from Photoplethysmography Signals},
   author={Shoaib, Md and Rafi, Akhter and Hasan, Md Kamrul},
   journal={Expert Systems with Applications},
   pages={127994},
   year={2025},
   publisher={Elsevier}
-}``
+}```
