@@ -24,7 +24,7 @@ Estimating blood pressure (BP) from photoplethysmography (PPG) signals is challe
 - neurokit2
 - Python packages: numpy, pandas, scipy
 
-## 📁 Code organization (Under Codes Folder)
+## 📁 Code Organization (Under Codes Folder)
 
 The codes of the work as organized as follows:
 - Load_data.py -> Base code for loading preprocessed data
