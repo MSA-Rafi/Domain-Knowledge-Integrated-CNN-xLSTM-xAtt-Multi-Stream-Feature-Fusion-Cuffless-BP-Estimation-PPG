@@ -27,13 +27,16 @@ Estimating blood pressure (BP) from photoplethysmography (PPG) signals is challe
 ## 📁 Code Organization (Under Codes Folder)
 
 The codes of the work as organized as follows:
-- Load_data.py → Base code for loading preprocessed data
-- utils.py → Custom loss functions, PCC calculation
-- Image_transform.py → Transforming PPG signals to raw images, scalogram, and MTF images
-- Feature_extractor.py → Handcrafted feature extraction from PPG signals
-- D_QuEST.py → Proposed method for domain knowledge integration into the DL model through dynamic quantitative embedding supervision-based tuning
-- PPG2BP_Net.py → Proposed architecture of the DL model with MDI-Net, MUS-Net, and MSFN
-- Train_PPG2BP_Net.py → Training and evaluation code for the proposed framework
+
+| File/Module               | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| Load_data.py              | Base code for loading preprocessed data                                     |
+| utils.py                  | Custom loss functions, PCC (Pearson Correlation Coefficient) calculation    |
+| Image_transform.py        | Transforms PPG signals into raw images, scalogram, and MTF representations  |
+| Feature_extractor.py      | Handcrafted feature extraction from PPG signals                             |
+| D_QuEST.py                | Domain knowledge integration via Dynamic Quantitative Embedding Supervision |
+| PPG2BP_Net.py             | Proposed DL architecture (MDI-Net, MUS-Net, MSFN modules)                   |
+| Train_PPG2BP_Net.py       | Training and evaluation of the complete BP estimation framework             |
 
 ## 📊 Results Summary
 
