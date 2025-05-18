@@ -1,6 +1,6 @@
 # Domain Knowledge Integrated CNN-xLSTM-xAtt Network with Multi Stream Feature Fusion for Cuffless Blood Pressure Estimation from Photoplethysmography Signals
 
-🔬 This is the code base for paper: [Domain Knowledge Integrated CNN-xLSTM-xAtt Network with Multi Stream Feature Fusion for Cuffless Blood Pressure Estimation from Photoplethysmography Signals](https://doi.org/10.1016/j.eswa.2025.127994)
+🔬 This is the code base for paper: [Domain Knowledge Integrated CNN-xLSTM-xAtt Network with Multi Stream Feature Fusion for Cuffless Blood Pressure Estimation from Photoplethysmography Signals](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1l6MV_LnESZKxl/1/01020196dba1b04f-e32a503b-d6b3-4c59-96fd-3c64076ae0e1-000000/VlXteY78VEhGn9zPa4TQ9A_Mq98=426)
 
 This repository contains the implementation of a novel deep learning framework for cuffless blood pressure (BP) estimation from photoplethysmography (PPG) signals. The architecture combines CNN-xLSTM-xAttention networks with a multi-stream feature fusion network (MSFN) and a domain knowledge-integrated supervision strategy (D-QuEST). Key components include:
 
