@@ -52,12 +52,16 @@ The codes of the work as organized as follows:
 If you find this work useful, please cite using:
 
 ```
-@article{shoaib2025domain,
-  title={Domain Knowledge Integrated CNN-xLSTM-xAtt Network with Multi Stream Feature Fusion for Cuffless Blood Pressure Estimation from Photoplethysmography Signals},
-  author={Shoaib, Md and Rafi, Akhter and Hasan, Md Kamrul},
-  journal={Expert Systems with Applications},
-  pages={127994},
-  year={2025},
-  publisher={Elsevier}
+@article{SHOAIBAKHTERRAFI2025127994,
+title = {Domain knowledge integrated CNN-xLSTM-xAtt network with multi stream feature fusion for cuffless blood pressure estimation from photoplethysmography signals},
+journal = {Expert Systems with Applications},
+volume = {286},
+pages = {127994},
+year = {2025},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2025.127994},
+url = {https://www.sciencedirect.com/science/article/pii/S095741742501615X},
+author = {Md {Shoaib Akhter Rafi} and Md Kamrul Hasan},
+keywords = {Blood pressure, Photoplethysmography signals, CNN-xLSTM-xAtt, Quantitative embedding supervision, Multi-stream cross-attention, Multi-stream fusion network}
 }
 ```
