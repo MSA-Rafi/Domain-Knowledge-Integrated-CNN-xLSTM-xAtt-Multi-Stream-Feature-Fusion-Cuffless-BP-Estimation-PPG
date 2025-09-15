@@ -72,7 +72,6 @@ year = {2025},
 issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2025.127994},
 url = {https://www.sciencedirect.com/science/article/pii/S095741742501615X},
-author = {Md {Shoaib Akhter Rafi} and Md Kamrul Hasan},
-keywords = {Blood pressure, Photoplethysmography signals, CNN-xLSTM-xAtt, Quantitative embedding supervision, Multi-stream cross-attention, Multi-stream fusion network}
+author = {Md {Shoaib Akhter Rafi} and Md Kamrul Hasan}
 }
 ```
