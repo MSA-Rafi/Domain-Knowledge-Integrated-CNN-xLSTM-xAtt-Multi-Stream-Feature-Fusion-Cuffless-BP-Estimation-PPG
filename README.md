@@ -1,7 +1,3 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-knowledge-integrated-cnn-xlstm-xatt/blood-pressure-estimation-on-mimic-iii)](https://paperswithcode.com/sota/blood-pressure-estimation-on-mimic-iii?p=domain-knowledge-integrated-cnn-xlstm-xatt)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-knowledge-integrated-cnn-xlstm-xatt/blood-pressure-estimation-on-vitaldb)](https://paperswithcode.com/sota/blood-pressure-estimation-on-vitaldb?p=domain-knowledge-integrated-cnn-xlstm-xatt)
-
 # Domain Knowledge Integrated CNN-xLSTM-xAtt Network with Multi Stream Feature Fusion for Cuffless Blood Pressure Estimation from Photoplethysmography Signals
 
 🔬 This is the code base for paper: [Domain Knowledge Integrated CNN-xLSTM-xAtt Network with Multi Stream Feature Fusion for Cuffless Blood Pressure Estimation from Photoplethysmography Signals](https://doi.org/10.1016/j.eswa.2025.127994)
