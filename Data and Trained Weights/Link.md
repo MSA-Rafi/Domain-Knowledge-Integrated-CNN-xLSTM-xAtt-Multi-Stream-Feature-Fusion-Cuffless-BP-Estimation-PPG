@@ -1,4 +1,4 @@
-#Data Types and Introduction
+# Data Types and Introduction
 
 This study utilizes publicly available datasets, namely MIMIC-III and PulseDB. Two distinct dataset configurations have been employed:
 
