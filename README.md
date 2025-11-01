@@ -42,7 +42,7 @@ The proposed architecture of the CNN-xLSTM based dual stage MSFN:
 - PyTorch >= 1.8
 - pywavelets
 - neurokit2
-- Python packages: numpy, pandas, scipy
+- Python packages: numpy, pandas, scipy=1.8.1
 
 ## 📁 Code Organization (Under Codes Folder)
 
