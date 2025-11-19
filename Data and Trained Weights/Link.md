@@ -7,4 +7,6 @@ This study utilizes publicly available datasets, namely MIMIC-III and PulseDB. T
 
 Link to dataset and trained weights of the proposed network:
 
-[Google Drive Folder](https://drive.google.com/drive/folders/1G5CC3EEC0mqSVLKUUvj2ymW9FBT7GKLs?usp=sharing)
+[Data](https://drive.google.com/drive/folders/1G5CC3EEC0mqSVLKUUvj2ymW9FBT7GKLs?usp=sharing)
+
+[Weights](https://drive.google.com/drive/folders/1uaZRUJJHDO_tymcHrxjIeOSMiMHJXe9R?usp=sharing)
